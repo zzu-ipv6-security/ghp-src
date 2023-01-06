@@ -1,5 +1,5 @@
 ---
-title: Convert timing channel detection method based on time interval and payload length analysis
+title: Covert timing channel detection method based on time interval and payload length analysis
 date: 2022-12-29 12:56:05
 tags: 隐蔽信道
 ---
