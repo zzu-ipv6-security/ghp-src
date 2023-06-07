@@ -1,0 +1,6 @@
+# edit node_modules/hexo-next-theme/_config.yml
+math:
+  every_page: true
+  mathjax:
+    enable: true
+    tags: none
