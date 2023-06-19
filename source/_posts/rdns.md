@@ -1,7 +1,7 @@
 ---
 title: 基于 DNS 协议收集全球 IPv6 地址数据集
 date: 2023-02-06 19:11:58
-tags: 网络扫描
+tags: 网络测量
 ---
 
 # Something From Nothing: Collecting Global IPv6 Datasets from DNS
